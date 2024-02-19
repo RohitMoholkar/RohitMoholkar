@@ -5,5 +5,4 @@ I'm a recent graduate with a Masters in Data Analytics, currently based in Dubli
 #### Contact Information:
 
 - Email: rohitmoholkar2000@gmail.com 
-- LinkedIn: www.linkedin.com/in/rohit-moholkar
-  
+- LinkedIn: www.linkedin.com/in/rohit-moholkar 
