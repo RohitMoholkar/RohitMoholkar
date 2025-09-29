@@ -6,6 +6,8 @@ Python is my go-to language for data processing, automation, and machine learnin
 
 My professional journey has been rooted in data-centric roles. At JuntoAI, I contributed to an AI-powered networking platform during the Irish National AI Challenge 2025. At Seagull Enterprises, I led ERP data migration using Python and developed business intelligence solutions for SME clients with Power BI. Earlier, at Hugg.co.in, I applied SQL, Python, and Excel to practical research and analytics projects, laying the groundwork for my career in data and technology.
 
+My goal is simple: make data work harder, so people don’t have to. 
+
 On GitHub, you’ll find my projects in data analytics, machine learning, and data engineering, where I apply my skills to solve real-world challenges. For more about me, feel free to check out my LinkedIn profile or connect via email. Thank you 😊
 
 #### Contact Information:
