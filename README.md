@@ -4,6 +4,8 @@ I hold a Master’s degree in Data Analytics and bring 2 years of hands-on exper
 
 Python is my go-to language for data processing, automation, and machine learning, with a solid foundation in R and C++. I am proficient in SQL for database querying, Excel for analysis and reporting, and Power BI as well as Tableau for building interactive dashboards. I also bring expertise in cloud platforms such as Azure and AWS for designing pipelines and managing data workflows.  
 
+My professional journey has been rooted in data-centric roles. At JuntoAI, I contributed to an AI-powered networking platform as part of the National AI Challenge 2025. At Seagull Enterprises, I led ERP data migration using Python and delivered business intelligence solutions for SME clients with Power BI. Earlier, at Hugg.co.in, I applied SQL, Python, and Excel to research and analytics on real-world projects, laying the groundwork for my career in data and technology. 
+
 I'm a recent graduate with a Master's in Data Analytics, currently based in Dublin, Ireland. I also hold a Bachelor's degree in Electronics and Telecommunication Engineering. I am passionate about coding, particularly in Python, and my expertise lies in data analytics and machine learning, focusing on extracting actionable insights and developing predictive models. In my role as an Associate Analyst at Hugg.co.in, I gained practical experience applying analytical techniques to enhance decision-making. You can explore my individual and academic projects on GitHub, where I apply my skills to solve real-world challenges and pursue data-driven opportunities. 
 
 For more about me, feel free to check out my LinkedIn profile or connect via email. Thank you 😊
